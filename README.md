@@ -1,6 +1,8 @@
 # rfit
 Rank-based Estimates of Regression Coefficients Use rfit (Rfit) With (In) R Software
 
+https://www.youtube.com/watch?v=kLc5KKMzeos
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
